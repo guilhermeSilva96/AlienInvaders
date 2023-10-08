@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Invaders3.1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Invaders3_1_jar</output-path>
+    <root id="archive" name="Invaders3.1.jar">
+      <element id="module-output" name="Invaders3.1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/simple-graphics-0.2.1-SNAPSHOT copy 2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
